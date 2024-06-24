@@ -1,0 +1,25 @@
+section{
+    background-color: lightgrey;
+    height: 155;
+    width: 150;
+    margin: 10px;
+    display: inline-block;
+}
+
+h1{
+    text-align: left;
+}
+
+h2{
+    background-color: beige;
+    border: solid black 2px;
+    width: 400px;
+}
+
+
+
+img{
+    margin: 10px;
+    border: 10px;
+    color: black;
+}
